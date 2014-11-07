@@ -299,8 +299,8 @@ body {
 
 #main-nav.scrolled .nav a:hover:before,
 #main-nav.scrolled .nav li.active a:before {
-	color: #68ff68;
-	text-shadow: 12px 0 #68ff68, -12px 0 #68ff68;
+	color: #1a2937;
+	text-shadow: 12px 0 #1a2937, -12px 0 #1a2937;
 }
 
 .no-textshadow #main-nav .nav a:before {
@@ -548,7 +548,7 @@ header.jumbotron{
 #skills {
     padding-top:80px;
 	background:#fff;
-    color:#228Ca8;
+    color:#68ff68;
 }
 
 .skills .col-sm-3 {
@@ -587,7 +587,7 @@ header.jumbotron{
 
 #skills .skills h2 {
     margin:0 0 80px;
-    color:#228Ca8;
+    color:#68ff68;
     font-size:24px;
     font-weight:300;
 }
@@ -602,7 +602,7 @@ header.jumbotron{
 }
 
 #portfolio .section-title {
-    color:#228Ca8;
+    color:#1a2937;
     font-weight:300;
     margin-bottom:60px;
 }
